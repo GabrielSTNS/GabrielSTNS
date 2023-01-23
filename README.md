@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/GabrielSTNS/b21b7142712f5faa7e7e7cd17c06301a/raw/98c94f793be4ea6c85a91e898f12cb9bd0d75508/githubcard.svg"/>
+<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/GabrielSTNS/b21b7142712f5faa7e7e7cd17c06301a/raw/98c94f793be4ea6c85a91e898f12cb9bd0d75508/githubcard.svg"/>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gabriel Santana</h1>
 
