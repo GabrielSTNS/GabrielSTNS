@@ -10,7 +10,7 @@
 
 - 💬 I am currently studying HTML, CSS and JavaScript**
 
-- ⚡ Fun fact **I love Yu-Gi-Oh 😜**
+- ⚡ Fun fact **I love One Piece 😜**
 
 <br><br>
 
