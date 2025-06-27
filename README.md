@@ -1,4 +1,4 @@
-<h2 align="center">Olá 👋! Meu nome é Gabriel e eu sou de São Paulo - SP.<br><br>Atualmente estou estudano desenvolvimento Front-End e postarei aqui meus pojetos de estudo</h2>
+<h2 align="center">Olá 👋! Meu nome é Gabriel e eu sou de São Paulo - SP.<br><br>Atualmente estou estudando Engenharia de Dados e postarei aqui minha evolução.</h2>
 
 ###
 
