@@ -1,4 +1,5 @@
 <h1 align="center">Seja bem-vindo! 👋🏻</h1>
+<p>Me chamo Gabriel, sou desenvolvedor full stack com foco em React e Node.js. Sou formado em Análise e Desenvolvimento de Sistemas e estou sempre em constante aprendizado! Seja muito bem-vindo(a), e me chame no LinkedIn para conversar! =)</p>
 
 ###
 
